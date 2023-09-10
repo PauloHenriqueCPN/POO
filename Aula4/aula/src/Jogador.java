@@ -14,7 +14,7 @@ public class Jogador extends Pessoa {
     @Override
     public void movimenta(double novaPosX, double novaPosY) {
         super.movimenta(novaPosX, novaPosY);
-        System.out.println("JOgador andou");
+        System.out.println("Jogador andou");
     }
 
     @Override

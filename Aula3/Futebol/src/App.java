@@ -11,7 +11,7 @@ public class App {
 
         System.out.println(jog1.peso);
         System.out.println(jog1.posX + ", " + jog1.posY);
-        jog1.andar(-10, 28);
+        jog1.andar(-10.0, 28.0);
         System.out.println(jog1.posX + ", " + jog1.posY);
 
         jog2 = new Jogador();
